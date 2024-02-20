@@ -1,0 +1,91 @@
+/* // $base-spacing-unit: 24px;
+// $half-spacing-unit: $base-spacing-unit / 2;
+// $color-alpha: #1772ff;
+// $color-form-highlight: #eeeeee; */
+
+.lightblue,
+.red,
+.lightgreen,
+.orange {
+  height: 20px;
+  width: 20px;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.lightblue {
+  background-color: lightblue;
+}
+
+.red {
+  background-color: red;
+}
+
+.lightgreen {
+  background-color: lightgreen;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.card {
+  width: 50%;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+
+.mb-2 {
+  margin-bottom: 2px;
+}
+
+.ml-5 {
+  margin-left: 5px;
+}
+
+.m-10 {
+  margin: 10px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+[data-testid^="expense-distribution-"] {
+  height: 30px;
+  display: inline-block;
+}
+
+[data-testid="expense-distribution-food"] {
+  background-color: lightgreen;
+}
+
+[data-testid="expense-distribution-travel"] {
+  background-color: orange;
+}
+
+[data-testid="expense-distribution-shopping"] {
+  background-color: lightblue;
+}
+
+[data-testid="expense-distribution-other"] {
+  background-color: red;
+}
+.table-header {
+  display: flex;
+  width: 100%;
+  background: #000;
+  padding: 36px;
+  color: white;
+}
+.table {
+  width: 100%;
+  border: 1px solid #eeeeee;
+}
