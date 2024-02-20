@@ -154,7 +154,7 @@ function ExpenseTracker() {
           </tbody>
         </table>
       </div>
-      <div className="card ml-5 m-10" style={{ width: "50%" }}>
+      <div className="card ml-5 m-10" style={{ width: "80%", margin: "auto" }}>
         <p className="title">Expenses Breakdown</p>
         <div style={{ display: "flex" }}>
           <div

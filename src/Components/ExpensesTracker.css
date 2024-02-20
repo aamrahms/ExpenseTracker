@@ -2,7 +2,9 @@
 // $half-spacing-unit: $base-spacing-unit / 2;
 // $color-alpha: #1772ff;
 // $color-form-highlight: #eeeeee; */
-
+body {
+  text-align: center;
+}
 .lightblue,
 .red,
 .lightgreen,
@@ -28,16 +30,16 @@
 .orange {
   background-color: orange;
 }
-
+/* 
 .card {
   width: 50%;
-}
+} */
 
-.flex {
+/* .flex {
   display: flex;
   align-items: center;
-}
-
+} */
+/* 
 .ml-10 {
   margin-left: 10px;
 }
@@ -52,7 +54,7 @@
 
 .m-10 {
   margin: 10px;
-}
+} */
 
 .title {
   font-weight: bold;
@@ -78,14 +80,8 @@
 [data-testid="expense-distribution-other"] {
   background-color: red;
 }
-.table-header {
-  display: flex;
-  width: 100%;
-  background: #000;
-  padding: 36px;
-  color: white;
-}
-.table {
+
+table {
   width: 100%;
   border: 1px solid #eeeeee;
 }
