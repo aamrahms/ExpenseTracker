@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/expense-tracker/static/css/main.deafe2de.css",
-    "main.js": "/expense-tracker/static/js/main.b1516553.js",
-    "static/js/453.50385a13.chunk.js": "/expense-tracker/static/js/453.50385a13.chunk.js",
-    "static/media/logo.svg": "/expense-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/expense-tracker/index.html",
-    "main.deafe2de.css.map": "/expense-tracker/static/css/main.deafe2de.css.map",
-    "main.b1516553.js.map": "/expense-tracker/static/js/main.b1516553.js.map",
-    "453.50385a13.chunk.js.map": "/expense-tracker/static/js/453.50385a13.chunk.js.map"
+    "main.css": "/ExpenseTracker/static/css/main.deafe2de.css",
+    "main.js": "/ExpenseTracker/static/js/main.78c6259a.js",
+    "static/js/453.50385a13.chunk.js": "/ExpenseTracker/static/js/453.50385a13.chunk.js",
+    "static/media/logo.svg": "/ExpenseTracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ExpenseTracker/index.html",
+    "main.deafe2de.css.map": "/ExpenseTracker/static/css/main.deafe2de.css.map",
+    "main.78c6259a.js.map": "/ExpenseTracker/static/js/main.78c6259a.js.map",
+    "453.50385a13.chunk.js.map": "/ExpenseTracker/static/js/453.50385a13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.deafe2de.css",
-    "static/js/main.b1516553.js"
+    "static/js/main.78c6259a.js"
   ]
 }
